@@ -1,11 +1,11 @@
 body {
     background-color: rgb(28, 112, 133);
-    margin: 10%;
+    margin: 5%;
 }
 div#area {
     background-color: aliceblue;
     text-align: center;
-    width:25rem;
+    width:22rem;
     border-radius: 10px;
     border: 2px solid black;
     margin: auto;
@@ -15,7 +15,49 @@ h1 {
 
     color: rgb(0, 0, 0);
 }
+#exibiCores {
+    
+}
+#red {
+   
+    display: inline-block;
+    margin-right: 3px;
+}
 
+#corRed {
+    border: 1px solid black;
+    height: 1rem;
+    width: 5rem;
+    display: inline-block;
+    background-color: red;
+    
+}
+#green {
+   
+    display: inline-block;
+    margin-right: 3px;
+}
+#corGreen {
+    border: 1px solid black;
+    height: 1rem;
+    width: 5rem;
+    display: inline-block;
+    background-color: green;
+    
+}
+#blue {
+   
+    display: inline-block;
+    margin-right: 3px;
+}
+#corBlue {
+    border: 1px solid black;
+    height: 1rem;
+    width: 5rem;
+    display: inline-block;
+    background-color: blue;
+    
+}
 .ball {
     border: 1px solid black;
     border-radius: 50%;
